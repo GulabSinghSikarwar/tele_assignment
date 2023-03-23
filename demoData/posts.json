@@ -1,0 +1,21 @@
+[
+    {
+        "title":"First Post ",
+        "category":"Technology",
+        "content":"First tech post "
+    },
+    
+    {
+        "title":"Second Post ",
+        "category":"Famous Places ",
+        "content":"world Best places"
+    },
+    
+    {
+        "title":"Third Post ",
+        "category":"Famous Trains ",
+        "content":"world Best Trains"
+    }
+
+
+]
